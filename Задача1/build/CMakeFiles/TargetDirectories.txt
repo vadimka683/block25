@@ -1,0 +1,3 @@
+C:/Users/vivas/OneDrive/Рабочий стол/Skillbox/блок25/Задача1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/vivas/OneDrive/Рабочий стол/Skillbox/блок25/Задача1/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/vivas/OneDrive/Рабочий стол/Skillbox/блок25/Задача1/build/src/CMakeFiles/gogi.dir
