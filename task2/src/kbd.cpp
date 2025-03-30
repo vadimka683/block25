@@ -1,5 +1,6 @@
 #include "kbd.h"
 #include<vector>
+#include<iostream>
 
 void input_buffer(std::vector<int>& mem) {
 	for (int i = 0; i < mem.size(); i++) {
