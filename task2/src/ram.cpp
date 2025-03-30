@@ -8,6 +8,6 @@ void read(std::vector<int>& mem) {
 }
 
 void write(std::vector<int>& mem) {
-	mem.resize(8);
+	//mem.resize(8);
 	input_buffer(mem);
 }
